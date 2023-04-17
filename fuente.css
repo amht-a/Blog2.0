@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "rosalia";
+    src: url("Rosalia.otf");
+  }
+
+  h1{
+    font-family: rosalia;
+  }
+
+ 
